@@ -40,4 +40,4 @@ using Microsoft Excel.
 
 ## Contact
 Open to Data Analyst opportunities!  
-Connect on LinkedIn: [Your LinkedIn URL]
+Connect on LinkedIn: [https://www.linkedin.com/in/ranjan-sah-6ab222239?utm_source=share_via&utm_content=profile&utm_medium=member_android]
